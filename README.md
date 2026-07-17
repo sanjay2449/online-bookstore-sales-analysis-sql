@@ -55,7 +55,7 @@ The database contains the following tables:
 # 📂 Project Structure
 
 ```
-Online-Bookstore-SQL/
+Online-Bookstore-SQL/Dataset
 
 │
 ├── 01_Table_Creation.sql
